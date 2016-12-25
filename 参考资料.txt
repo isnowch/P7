@@ -1,0 +1,2 @@
+http://www.evanmiller.org/ab-testing/sample-size.html
+https://en.wikipedia.org/wiki/Bonferroni_correction
